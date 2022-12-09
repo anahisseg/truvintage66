@@ -12,7 +12,7 @@ header {
   background-size: cover;
   background-position: top center;
   background-repeat: no-repeat;
-  background-image: url("https://i.postimg.cc/qR5LxrS1/s816485854612618746-p188-i1-w683.jpg");
+  background-image: url("[![s816485854612618746-p188-i1-w683.jpg](https://i.postimg.cc/qR5LxrS1/s816485854612618746-p188-i1-w683.jpg)](https://postimg.cc/MM1VzCWB)");
   background-attachment: fixed;
   width: 100%;
   height: 80%;
@@ -20,7 +20,7 @@ header {
 
 @media (max-width: 600px) {
   header {
-    background-image: url("https://i.postimg.cc/qR5LxrS1/s816485854612618746-p188-i1-w683.jpg");
+    background-image: url("[![s816485854612618746-p188-i1-w683.jpg](https://i.postimg.cc/qR5LxrS1/s816485854612618746-p188-i1-w683.jpg)](https://postimg.cc/MM1VzCWB)");
     background-attachment: scroll;
   }
 }
